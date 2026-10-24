@@ -12,7 +12,8 @@
 [![Community](https://img.shields.io/badge/Community-CAS%20(1,024%2B%20Active%20Members)-25D366.svg?style=flat-square&logo=whatsapp&logoColor=white)](https://github.com/omeko42/big-data-binops)
 [![Production Scale](https://img.shields.io/badge/Production%20DB-68.89M%2B%20Rows%20%7C%20171%20Tables-336791.svg?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/omeko42/big-data-binops/blob/main/database/schema/DATABASE_INVENTORY.md)
 [![Analytical Latency](https://img.shields.io/badge/Analytical%20Latency-%3C100ms%20(Snapshot%20Engine)-10B981.svg?style=flat-square)](https://github.com/omeko42/big-data-binops/blob/main/ARCHITECTURE.md)
-[![Security](https://img.shields.io/badge/Security-FIDO2%20WebAuthn%20%2B%20TOTP%202FA-059669.svg?style=flat-square&logo=riotgames&logoColor=white)](https://github.com/omeko42/big-data-binops/blob/main/SECURITY.md)
+[![Security & License](https://img.shields.io/badge/License%20%7C%20NDA%20%7C%20SLA-FIDO2%20WebAuthn%20%2B%20Zero--Trust-059669.svg?style=flat-square)](https://github.com/omeko42/big-data-binops/blob/main/LICENSE.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eko%20Agung%20(%40omeko42)-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omeko42/)
 
 ---
 
@@ -53,7 +54,7 @@ Starting my journey on the front lines of national operational data analysis at 
 * 🧭 [**Strategic Governance & Platform Evolution (`docs/STRATEGIC_GOVERNANCE_AND_EVOLUTION.md`)**](https://github.com/omeko42/big-data-binops/blob/main/docs/STRATEGIC_GOVERNANCE_AND_EVOLUTION.md) — 4-stage platform evolution, Perpol 4/2025 governance matrix, and 6-pillar roadmap.
 * 🖥️ [**Dual-Node Server Inventory (`docs/SERVER_ARCHITECTURE_AND_INVENTORY.md`)**](https://github.com/omeko42/big-data-binops/blob/main/docs/SERVER_ARCHITECTURE_AND_INVENTORY.md) — Production topology, Docker/Nginx/Systemd blueprints, and 26 NestJS submodules.
 * 🗄️ [**Live PostgreSQL Schema & Inventory (`database/`)**](https://github.com/omeko42/big-data-binops/tree/main/database) — [`000_live_production_schema.sql`](https://github.com/omeko42/big-data-binops/blob/main/database/schema/000_live_production_schema.sql) (4,878 lines of DDL), [`DATABASE_INVENTORY.md`](https://github.com/omeko42/big-data-binops/blob/main/database/schema/DATABASE_INVENTORY.md), and 90 SQL migrations.
-* 🔒 [**Security Policy & Cryptographic Architecture (`SECURITY.md`)**](https://github.com/omeko42/big-data-binops/blob/main/SECURITY.md) — Bilingual security governance & zero-secret verification.
+* ⚖️ [**Institutional License, NDA, SLA & Security Policy (`LICENSE.md`)**](https://github.com/omeko42/big-data-binops/blob/main/LICENSE.md) — Bilingual legal, NDA confidentiality, 99.9% SLA & cryptographic governance.
 
 ---
 
@@ -71,6 +72,6 @@ Starting my journey on the front lines of national operational data analysis at 
 ---
 
 <div align="center">
-  <b>Eko Agung (`@omeko42`)</b><br/>
+  <b>Eko Agung (`@omeko42`)</b> — <a href="https://github.com/omeko42">GitHub</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/omeko42/">LinkedIn</a><br/>
   <i>Full-Stack Software Engineer & System Architect • Founder of CAS (Community Anggota Serse) & Lead Architect of Big Data Binops (BDB)</i>
 </div>

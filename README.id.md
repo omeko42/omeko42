@@ -12,7 +12,8 @@
 [![Community](https://img.shields.io/badge/Komunitas-CAS%20(1.024%2B%20Anggota%20Aktif)-25D366.svg?style=flat-square&logo=whatsapp&logoColor=white)](https://github.com/omeko42/big-data-binops/blob/main/README.id.md)
 [![Production Scale](https://img.shields.io/badge/DB%20Produksi-68,89%20Juta%2B%20Baris%20%7C%20171%20Tabel-336791.svg?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/omeko42/big-data-binops/blob/main/database/schema/DATABASE_INVENTORY.md)
 [![Analytical Latency](https://img.shields.io/badge/Latensi%20Analitik-%3C100ms%20(Mesin%20Snapshot)-10B981.svg?style=flat-square)](https://github.com/omeko42/big-data-binops/blob/main/ARCHITECTURE.md)
-[![Security](https://img.shields.io/badge/Keamanan-FIDO2%20WebAuthn%20%2B%20TOTP%202FA-059669.svg?style=flat-square&logo=riotgames&logoColor=white)](https://github.com/omeko42/big-data-binops/blob/main/SECURITY.md)
+[![Security & License](https://img.shields.io/badge/Lisensi%20%7C%20NDA%20%7C%20SLA-FIDO2%20WebAuthn%20%2B%20Zero--Trust-059669.svg?style=flat-square)](https://github.com/omeko42/big-data-binops/blob/main/LICENSE.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eko%20Agung%20(%40omeko42)-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omeko42/)
 
 ---
 
@@ -53,7 +54,7 @@ Berangkat dari pengalaman langsung mengelola dan menganalisis data operasional n
 * 🧭 [**Telaahan Strategis & Evolusi Platform (`docs/STRATEGIC_GOVERNANCE_AND_EVOLUTION.md`)**](https://github.com/omeko42/big-data-binops/blob/main/docs/STRATEGIC_GOVERNANCE_AND_EVOLUTION.md) — Evolusi 4 tahap, matriks SOTK Perpol 4/2025, dan cetak biru 6 pilar.
 * 🖥️ [**Inventaris & Topologi Server Dual-Node (`docs/SERVER_ARCHITECTURE_AND_INVENTORY.md`)**](https://github.com/omeko42/big-data-binops/blob/main/docs/SERVER_ARCHITECTURE_AND_INVENTORY.md) — Topologi produksi, konfigurasi Docker/Nginx/Systemd, dan 26 sub-modul NestJS.
 * 🗄️ [**Skema PostgreSQL Produksi & Inventaris 68,89 Juta Baris (`database/`)**](https://github.com/omeko42/big-data-binops/tree/main/database) — [`000_live_production_schema.sql`](https://github.com/omeko42/big-data-binops/blob/main/database/schema/000_live_production_schema.sql) (4.878 baris DDL), [`DATABASE_INVENTORY.md`](https://github.com/omeko42/big-data-binops/blob/main/database/schema/DATABASE_INVENTORY.md), dan 90 migrasi SQL.
-* 🔒 [**Kebijakan Keamanan & Arsitektur Kriptografi (`SECURITY.md`)**](https://github.com/omeko42/big-data-binops/blob/main/SECURITY.md) — Tata kelola keamanan dwibahasa & verifikasi *zero-secret*.
+* ⚖️ [**Lisensi Kedinasan, NDA, SLA & Kebijakan Keamanan (`LICENSE.md`)**](https://github.com/omeko42/big-data-binops/blob/main/LICENSE.md) — Tata kelola lisensi, kerahasiaan NDA, SLA 99,9% & kriptografi dwibahasa.
 
 ---
 
@@ -71,6 +72,6 @@ Berangkat dari pengalaman langsung mengelola dan menganalisis data operasional n
 ---
 
 <div align="center">
-  <b>Eko Agung (`@omeko42`)</b><br/>
+  <b>Eko Agung (`@omeko42`)</b> — <a href="https://github.com/omeko42">GitHub</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/omeko42/">LinkedIn</a><br/>
   <i>Full-Stack Software Engineer & System Architect • Pendiri CAS (Community Anggota Serse) & Arsitek Utama Big Data Binops (BDB)</i>
 </div>
